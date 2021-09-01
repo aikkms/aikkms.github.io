@@ -8,7 +8,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 
-import "bootswatch/dist/sandstone/bootstrap.min.css"
+//import "bootswatch/dist/sandstone/bootstrap.min.css"
 
 import { Container, Row, Col } from "react-bootstrap"
 
