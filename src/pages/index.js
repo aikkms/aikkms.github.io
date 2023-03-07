@@ -42,7 +42,7 @@ const IndexPage = () => (
           <Card>
             <Card.Header>Featured</Card.Header>
             <Card.Body>
-              <Card.Text>The proposal of AIKKMS in the SKM meeting on January 21,2021</Card.Text>
+              <Card.Title>The proposal of AIKKMS in the SKM meeting on January 21,2021</Card.Title>
 
               <Button variant="primary" onClick={() => navigate("/proposal-of-aikkms-skm-meeting")}>Read</Button>
             </Card.Body>
