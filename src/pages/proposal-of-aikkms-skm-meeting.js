@@ -1,12 +1,12 @@
 import React from "react"
-import Article from "../news/Memorandum"
+import Article from "../news/SKMMeeting"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const Page = () => (
-  <Layout pageInfo={{ pageName: "memorandum-to-pm" }}>
-    <Seo title="Memorandum to PM" />
+  <Layout pageInfo={{ pageName: "proposal-of-aikkms-skm-meeting" }}>
+    <Seo title="AIKKMS SKM Meeting" />
     <Article />
   </Layout>
 )

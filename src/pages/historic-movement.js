@@ -2,11 +2,11 @@ import React from "react"
 import HistoricMovement from "../articles/HistoricMovement"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout pageInfo={{ pageName: "historic-peasants-movement" }}>
-    <SEO title="Historic Movement" />
+    <Seo title="Historic Movement" />
     <HistoricMovement />
   </Layout>
 )

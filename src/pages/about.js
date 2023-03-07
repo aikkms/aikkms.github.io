@@ -2,11 +2,11 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout pageInfo={{ pageName: "about" }}>
-    <SEO title="About" />
+    <Seo title="About" />
     <h1>About AIKKMS</h1>
     <p>All India Krishak Khetmazdur sanghatan (AIKKMS) is a revolutionary peasants and Agricultural labourers’ organization. It was established in the year 1950 through a convention organized at Joyanagar of WestBengal. Since then, being guided by a great Marxist philosopher com Shibdas Ghosh, it has been waging relentless and uncompromising fights against their exploitation by the present ruling capitalist   order. It is working throughout the country in more than 15 states. At present renowned mass leaders Com Satyavan and Com Shankar Ghosh are the  president and General secretaries respectively of the organization.</p>
     <p>AIKKMS is of the considered view that the problems of the peasants and Agricultural labourers in the country are due to the capitalist system which is  prevailing in the society. Governments both at the centre and different states since independence to this day are working for the benefits of the capitalist class. The whole objective of the governments is to somehow guarantee market to the capitalist class. Therefore they have not inclined to take up anything that would ameliorate the strains and pathos of the peasants and agricultural labourers. Peasants are simply exposed to ruthless exploitation and fraud is perpetrated on them.</p>

@@ -9,15 +9,11 @@ const Header = ({ siteTitle }) => (
       background: `#20232a`,
     }}
   >
-    <div
+    <div      
       style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-        display: `flex`,
-        alignItems: `center`
+        display: "flex",
+        padding: "10px"
       }}
-      className="row align-top"
     >
       <img
         alt=""
